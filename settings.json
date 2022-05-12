@@ -1,17 +1,17 @@
 {
-    "originalGuildId": "",
-    "newGuildId": "",
+    "originalGuildId": "938605335600595007",
+    "newGuildId": "956692705323388999",
     "newGuildAdminRoleId": "",
     "cleanup": true,
     "copy": {
         "General": true,
         "RCC": true,
-        "Emojis": false,
+        "Emojis": true,
         "Bans": false
     },
     "language": "en",
     "output": "all",
     "sleepTimeout": 0,
     "debug": false,
-    "token": ""
+    "token": "OTI5NzM5NzYwNTA1ODc2NTAw.G2sy7m.vxdtftX4plnH7FP4r22b4deSr0J4yvsgKxtDdY"
 }
